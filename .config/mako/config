@@ -1,17 +1,17 @@
 default-timeout=5000
-#000616
-background-color=#4D2C85
-progress-color=source #165582
-#294883
-#026692
-border-color=#515C92
-#0474C6
-text-color=#7dc2d7
-#578796
-#4D2C85
-#165582
-#294883
-#026692
-#515C92
-#0474C6
-#7dc2d7
+#171b22
+background-color=#6A748A
+progress-color=source #78849B
+#7E8AA2
+#99A2B2
+border-color=#B8C3D5
+#D5DBE4
+text-color=#e2e5eb
+#9ea0a4
+#6A748A
+#78849B
+#7E8AA2
+#99A2B2
+#B8C3D5
+#D5DBE4
+#e2e5eb
