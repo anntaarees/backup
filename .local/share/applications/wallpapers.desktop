@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=Wallpapers
+Icon=swayimg
+Exec=swayimg --gallery /home/atArch/Pictures/Wallpapers
