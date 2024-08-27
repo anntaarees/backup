@@ -1,7 +1,7 @@
 #!/bin/bash
 
-$HOME/.scripts/foot/pywal-foot.sh
-$HOME/.scripts/fuzzel/pywal-fuzzel.sh
-$HOME/.scripts/mako/pywal-mako.sh
+$HOME/.scripts/pywal-foot.sh
+$HOME/.scripts/pywal-fuzzel.sh
+$HOME/.scripts/pywal-mako.sh
 
 exit
